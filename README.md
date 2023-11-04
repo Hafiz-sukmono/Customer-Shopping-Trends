@@ -9,24 +9,23 @@ This dataset encompasses various features related to customer shopping preferenc
 
 ### Dataset Glossary (Column-wise)
 * Customer ID - Unique identifier for each customer
-
-Age - Age of the customer
-Gender - Gender of the customer (Male/Female)
-Item Purchased - The item purchased by the customer
-Category - Category of the item purchased
-Purchase Amount (USD) - The amount of the purchase in USD
-Location - Location where the purchase was made
-Size - Size of the purchased item
-Color - Color of the purchased item
-Season - Season during which the purchase was made
-Review Rating - Rating given by the customer for the purchased item
-Subscription Status - Indicates if the customer has a subscription (Yes/No)
-Shipping Type - Type of shipping chosen by the customer
-Discount Applied - Indicates if a discount was applied to the purchase (Yes/No)
-Promo Code Used - Indicates if a promo code was used for the purchase (Yes/No)
-Previous Purchases - The total count of transactions concluded by the customer at the store, excluding the ongoing transaction
-Payment Method - Customer's most preferred payment method
-Frequency of Purchases - Frequency at which the customer makes purchases (e.g., Weekly, Fortnightly, Monthly)
+* Age - Age of the customer
+* Gender - Gender of the customer (Male/Female)
+* Item Purchased - The item purchased by the customer
+* Category - Category of the item purchased
+* Purchase Amount (USD) - The amount of the purchase in USD
+* Location - Location where the purchase was made
+* Size - Size of the purchased item
+* Color - Color of the purchased item
+* Season - Season during which the purchase was made
+* Review Rating - Rating given by the customer for the purchased item
+* Subscription Status - Indicates if the customer has a subscription (Yes/No)
+* Shipping Type - Type of shipping chosen by the customer
+* Discount Applied - Indicates if a discount was applied to the purchase (Yes/No)
+* Promo Code Used - Indicates if a promo code was used for the purchase (Yes/No)
+* Previous Purchases - The total count of transactions concluded by the customer at the store, excluding the ongoing transaction
+* Payment Method - Customer's most preferred payment method
+* Frequency of Purchases - Frequency at which the customer makes purchases (e.g., Weekly, Fortnightly, Monthly)
 
 ### Acknowledgement
 This dataset is a synthetic creation generated using ChatGPT to simulate a realistic customer shopping experience. Its purpose is to provide a platform for beginners and data enthusiasts, allowing them to create, enjoy, practice, and learn from a dataset that mirrors real-world customer shopping behavior. The aim is to foster learning and experimentation in a simulated environment, encouraging a deeper understanding of data analysis and interpretation in the context of consumer preferences and retail scenarios.
